@@ -5,7 +5,7 @@ Implementaion of "A Simple Approach to Recognise Geometric Shapes Interactively"
 ## Installation
 
 ```bash
-npm i Interactive-shape-recognition
+npm i interactive-shape-recognition
 ```
 
 ## Usage
