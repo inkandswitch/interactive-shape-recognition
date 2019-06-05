@@ -11,7 +11,7 @@ npm i interactive-shape-recognition
 ## Usage
 
 ```js
-const detectShape = require("Interactive-shape-recognition");
+const detectShape = require("interactive-shape-recognition");
 
 const points = [
   // .. [x, y] positions ..
