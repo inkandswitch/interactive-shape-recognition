@@ -1,6 +1,6 @@
 {
   "name": "interactive-shape-recognition",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Implementaion of \"A Simple Approach to Recognise Geometric Shapes Interactively\" by Joaquim A. Jorge and Manuel J. Fonseca.",
   "main": "index.js",
   "keywords": [],
